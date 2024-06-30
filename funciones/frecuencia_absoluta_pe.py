@@ -1,5 +1,5 @@
 # Función para calcular la frecuencia absoluta
-def frecuencia_absoluta_c(datos_ordenados):
+def frecuencia_absoluta_pe(datos_ordenados):
     categorias = []
     frecuencias = []
     for dato in datos_ordenados:
