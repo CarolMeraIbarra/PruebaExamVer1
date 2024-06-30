@@ -1,3 +1,4 @@
+import math
 # Función para obtener número de intervalos
 def calcular_numero_intervalos(datos):
     n = len(datos)

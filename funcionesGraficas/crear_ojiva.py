@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 # Ojiva
 def crear_ojiva(marcas_clase, frecuencias_acumuladas):
     datos_x = [0] + marcas_clase

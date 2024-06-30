@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 # Histograma
 def crear_histograma(marcas_clase, frecuencias_relativas, ancho_clase):
     plt.figure(figsize=(12, 6))

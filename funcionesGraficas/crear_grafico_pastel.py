@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 # Gráfico de pastel
 def crear_grafico_pastel(categorias, frecuencias_relativas):
     plt.figure(figsize=(8, 8))

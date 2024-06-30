@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 # Gráfico de barras horizontales
 def crear_diagrama_barras_horizontales(categorias, frecuencias):
     plt.figure(figsize=(12, 6))
